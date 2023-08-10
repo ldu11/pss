@@ -133,6 +133,8 @@ TYPE_MAP = {
         TypeSpec(['.rb', '.rhtml', '.rjs', '.rxml', '.erb', '.rake', '.haml'], []),
     'rust':
         TypeSpec(['.rs'], []),
+    'sas':
+        TypeSpec(['.sas'], []),
     'scala':
         TypeSpec(['.scala'], []),
     'scheme':
